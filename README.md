@@ -30,7 +30,7 @@
         <ul>
             <li><a href="#9fev">Primeiro post: O que estou fazendo e por quê</a></li>
             <li><a href="#metas">Metas futuras</a></li>
-            <li><a href="bootcamp">Próximo passo: Bootcamp</a></li>
+            <li><a href="#bootcamps">Próximo passo: Bootcamps</a></li>
         </ul>
         
         <h2 id="9fev">Primeiro post: O que estou fazendo e por quê</h2>
@@ -58,7 +58,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/1024px-Ada_Lovelace_portrait.jpg" width="250">
             </ol><br>
             
-        <h2>Bootcamps</h2>
+        <h2 id="bootcamps">Bootcamps</h2>
         <table>
             <thead>
                 <tr>
