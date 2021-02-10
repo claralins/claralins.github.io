@@ -106,7 +106,6 @@
                 </tr>
             </tbody>
             </thead>
-        </table>
-        
+        </table> 
     </body>
 </html>
